@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AcronymServiceInterviewTask</string>
+    <string name="rv_item_label_usedsince">Used Since:</string>
+    <string name="rv_item_label_freq">Freq:</string>
+    <string name="hint_label_searchbyacronym">Search By Acronym</string>
+    <string name="hint_label_searchforacronym">Search For Acronym</string>
+    <string name="rv_item_lf_header">Long Form Variations…</string>
+    <string name="rv_item_lf_master">Long Form:</string>
+    <string name="edit_txt_content_desc_search_by_acronym">search_by_acronym</string>
+    <string name="btn_content_desc_search_by_acronym">search_button_to_search_by_acronym</string>
+    <string name="edit_txt_content_desc_search_for_acronym">search_for_acronym</string>
+    <string name="btn_content_desc_to_search_for_acronym">search_button_to_search_for_acronym</string>
+    <string name="btn_content_desc_go_back">btn_go_back</string>
+    <string name="edit_txt_digits_search_by_acronym">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="edit_text_search_for_acronym">ABCDEFGHIJKLMNOPQRSTUVWXYQ abcdefghijklmnopqrstuvwxyz</string>
+    <string name="tv_app_header">Acronym Search</string>
+</resources>

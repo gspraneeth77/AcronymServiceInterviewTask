@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_edge_padding">6dp</dimen>
+    <dimen name="vertical_edge_padding">12dp</dimen>
+    <dimen name="vertical_content_padding">6dp</dimen>
+    <dimen name="horizontal_content_padding">6dp</dimen>
+    <dimen name="rv_item_vertical_margin">12dp</dimen>
+    <dimen name="headline_font_size">18sp</dimen>
+    <dimen name="body_font_size">12sp</dimen>
+    <dimen name="label_font_size">18sp</dimen>
+    <dimen name="value_font_size">16sp</dimen>
+    <dimen name="hint_label_font_size">11sp</dimen>
+    <dimen name="rv_item_card_elevation">10dp</dimen>
+</resources>
